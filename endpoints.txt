@@ -9,3 +9,8 @@
 - they do medical stuff
 - add lab reports
 - add observed symptoms 
+- lab reception may start a lab reports
+- that report maybe be filled by the lab worker
+- the doctor gets the report finally
+
+- something close to md
