@@ -1,4 +1,5 @@
-/doctors
+/doctors- in different specialities
+-- like if some disease from shit / we get them refernce to them
 - confirm disease
 - confirm symptoms
 - suggested medicine  
@@ -13,4 +14,10 @@
 - that report maybe be filled by the lab worker
 - the doctor gets the report finally
 
-- something close to md
+- something close to WEBmd
+
+- health record of patients in digital form
+
+- if disease is serious then only it automatically make a appointment to nearest hospital otherwise give remidies or medicines
+
+user model - in different age models ?
