@@ -13,6 +13,8 @@
 - lab reception may start a lab reports
 - that report maybe be filled by the lab worker
 - the doctor gets the report finally
+/compounders
+- 
 
 - something close to WEBmd
 

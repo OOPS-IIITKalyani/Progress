@@ -1,0 +1,8 @@
+- login / sign up 
+
+- home 
+home will be different based on type of user
+-home/patient
+-home/doctor
+-home/healthworkers
+
