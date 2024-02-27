@@ -1,9 +1,11 @@
 /doctors
 - confirm disease
 - confirm symptoms
-
+- suggested medicine  
 /patient
 - add symptoms
 - 
-/different ppl
-/ 
+/Medical ppl
+- they do medical stuff
+- add lab reports
+- add observed symptoms 
