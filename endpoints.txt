@@ -1,0 +1,9 @@
+/doctors
+- confirm disease
+- confirm symptoms
+
+/patient
+- add symptoms
+- 
+/different ppl
+/ 
