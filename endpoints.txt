@@ -37,12 +37,15 @@ model
 
 /symptoms
 (a lot of controls)
-- 
+- contains a reference to another model call3d symptom
 
 
+/symptom
+- will have the indiviual symptom
 
+- date and time of input (v imp_)
 
-
+//later day ke liye
 
 
 /Medical ppl
