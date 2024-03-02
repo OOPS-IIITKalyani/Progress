@@ -1,8 +1,21 @@
+- serious 
+redirect to doctor
+- not serious
+
+
 /doctors- in different specialities
 -- like if some disease from shit / we get them refernce to them
 - confirm disease
 - confirm symptoms
 - suggested medicine  
+
+
+
+
+model
+
+- serious 
+- not serious
 
 
 /patient
@@ -46,6 +59,11 @@ model
 - date and time of input (v imp_)
 
 //later day ke liye
+
+
+
+
+
 
 
 /Medical ppl
