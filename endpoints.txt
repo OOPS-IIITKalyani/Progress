@@ -3,9 +3,48 @@
 - confirm disease
 - confirm symptoms
 - suggested medicine  
+
+
 /patient
 - add symptoms
 - 
+
+model 
+
+- name 
+- Patient Id
+- Patient Name
+- Date of birth
+- Health Report 
+(owm model later/ chart )
+
+- Existing disease
+(later make this its own model)
+
+- Created At
+(monngoose stuff ill add)
+- Updated At
+
+- previous test/reports
+(
+- stores either cloudinary url or data 
+- can use something that make the pdf from data (latex)
+)
+- reference to symptoms
+- 
+
+
+
+/symptoms
+(a lot of controls)
+- 
+
+
+
+
+
+
+
 /Medical ppl
 - they do medical stuff
 - add lab reports
@@ -23,3 +62,12 @@
 - if disease is serious then only it automatically make a appointment to nearest hospital otherwise give remidies or medicines
 
 user model - in different age models ?
+
+
+group something
+- voice to text 
+- elastic search i think 
+- multi lingual search
+
+
+//write a function to fetch current location

@@ -1,0 +1,7 @@
+Backend 
+-express
+- mongo db
+- redis
+
+Front end
+react 
