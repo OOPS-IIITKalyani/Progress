@@ -19,11 +19,8 @@ model
 
 
 /patient
-- add symptoms
-- 
 
-model
-
+- phone number
 - name 
 - Patient Id
 - Patient Name
@@ -64,8 +61,8 @@ model
 
 
 
-
-
+quarentineed stuff
+/*
 /Medical ppl
 - they do medical stuff
 - add lab reports
@@ -76,7 +73,7 @@ model
 
 /compounders
 - 
-
+*/
 - something close to WEBmd
 
 - health record of patients in digital form
