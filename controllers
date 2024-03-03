@@ -1,2 +1,7 @@
 - to handle different logins
 - route it as that
+- own auth/Auth0(only bootstrapping)
+- token (JWT)
+- sign-up for only users
+- for doctor need to enter gov id 
+- adj matrix based 
