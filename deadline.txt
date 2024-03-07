@@ -1,2 +1,21 @@
 Backend
-iman 
+iman,shaswat and tamaghna
+- backend server framework need to be done (11 march deadline)
+8 march before 12 pm
+11 database
+
+- then add matrix/disease predictor
+-- age filter
+
+Front 
+Subhadeep , bhasky, subham
+
+- react 
+- login / sign up (subhadeep- 11 march )
+- home 
+- dashboard 
+- patient dashboard
+- symptom input
+
+hard deadline 14 march
+novelty features after 14
