@@ -1,1 +1,6 @@
-ADJ Matrix
+ADJ Matrix for diseases with common symptoms for all age groups
+
+  S1  S2  S3
+D1
+D2
+D3
