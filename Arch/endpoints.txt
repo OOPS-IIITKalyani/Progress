@@ -18,31 +18,6 @@ model
 - not serious
 
 
-/patient
-
-- phone number
-- name 
-- Patient Id
-- Patient Name
-- Date of birth
-- Health Report 
-(owm model later/ chart )
-
-- Existing disease
-(later make this its own model)
-
-- Created At
-(monngoose stuff ill add)
-- Updated At
-
-- previous test/reports
-(
-- stores either cloudinary url or data 
-- can use something that make the pdf from data (latex)
-)
-- reference to symptoms
-- 
-
 
 
 /symptoms
@@ -80,7 +55,7 @@ quarentineed stuff
 
 - if disease is serious then only it automatically make a appointment to nearest hospital otherwise give remidies or medicines
 
-user model - in different age models ?
+
 
 
 group something
