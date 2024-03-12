@@ -1,6 +1,5 @@
-- serious 
-redirect to doctor
-- not serious
+symptoms will be coming from a specified set 
+frontend me function likhna hoga to select from drop down list
 
 
 /doctors- in different specialities
@@ -9,13 +8,11 @@ redirect to doctor
 - confirm symptoms
 - suggested medicine  
 
+patient login 
 
 
 
-model
 
-- serious 
-- not serious
 
 
 
@@ -27,28 +24,10 @@ model
 
 /symptom
 - will have the indiviual symptom
-
 - date and time of input (v imp_)
 
-//later day ke liye
 
 
-
-
-
-quarentineed stuff
-/*
-/Medical ppl
-- they do medical stuff
-- add lab reports
-- add observed symptoms 
-- lab reception may start a lab reports
-- that report maybe be filled by the lab worker
-- the doctor gets the report finally
-
-/compounders
-- 
-*/
 - something close to WEBmd
 
 - health record of patients in digital form
@@ -62,6 +41,3 @@ group something
 - voice to text 
 - elastic search i think 
 - multi lingual search
-
-
-//write a function to fetch current location
