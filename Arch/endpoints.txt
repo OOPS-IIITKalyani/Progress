@@ -12,7 +12,13 @@ patient login
 
 
 
+/prediction
+- array of symptoms
+- from there need to predict the disease
+- might need to work on propability
+- csv for now
 
+/vector search on the disease vector
 
 
 
