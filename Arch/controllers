@@ -6,3 +6,5 @@
 - for doctor need to enter gov id 
 - adj matrix based 
 - 
+- For certain diseases, we have one symptom that confirms for sure whether it is that disease or not. To implement that, in the adj matrix, instead
+of using just 0 and 1, we will use 0, 1, 2, 3, etc as we see fit to tell the prediction model that this symptom is important for this disease.
